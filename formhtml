@@ -4,7 +4,7 @@
 </br>
     NPM : 4520210101 
 </br>
-    Kelas : Desain Werb A
+    Kelas : Desain Web A
 </br>
 <body bgcolor="#e1ebf7"></body>
 <title>Form HTML</title>
@@ -37,6 +37,17 @@
     <input type="tel" name="no telp" id="no telp">
   </div>
   <div>
+    <strong>Jenis Kelamin</strong>
+    <div>
+      <label for="laki-laki">Laki-laki</label>
+      <input type="radio" name="gender" id="laki-laki" value="laki-laki">
+    </div>
+    <div>
+      <label for="perempuan">Perempuan</label>
+      <input type="radio" name="gender" id="perempuan" value="perempuan">
+    </div>
+  </div>
+  <div>
     <strong>Olahraga Favorite</strong>
     <div>
       <label for="basket">Basket</label>
@@ -51,17 +62,6 @@
         <input type="checkbox" name="sepak bola" id="sepak bola">
       </div>
   </div>
-
-  <div>
-    <strong>Jenis Kelamin</strong>
-    <div>
-      <label for="laki-laki">Laki-laki</label>
-      <input type="radio" name="gender" id="laki-laki" value="laki-laki">
-    </div>
-    <div>
-      <label for="perempuan">Perempuan</label>
-      <input type="radio" name="gender" id="perempuan" value="perempuan">
-    </div>
   </div>
   <input type="hidden" name="hidden" value="hi">
   <div>
@@ -70,7 +70,7 @@
   </div>
   <div>
     <label>
-      Password
+      <strong>Password</strong>
       <input type="password" name="password" required>
     </label>
   </div>
