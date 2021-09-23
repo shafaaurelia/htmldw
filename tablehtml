@@ -1,0 +1,26 @@
+
+<table>
+     <caption>My Table</caption>
+     <thead>
+          <tr>
+               <th>No</th>
+               <th>Nama</th>
+               <th>NPM</th>
+               <th>Alamat</th>
+          </tr>
+     </thead>
+     <tbody>
+          <tr>
+               <td>1</td>
+               <td>Shafa</td>
+               <td>4520210101</td>
+               <td>Medan</td>
+          </tr>
+          <tr>
+               <td>2</td>
+               <td>Aurelia</td>
+               <td>12345678</td>
+               <td>Jakarta</td>
+          </tr>
+     </tbody>
+</table>
