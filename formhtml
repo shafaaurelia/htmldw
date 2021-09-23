@@ -7,7 +7,7 @@
     Kelas : Desain Web A
 </br>
 <body bgcolor="#e1ebf7"></body>
-<title>Form HTML</title>
+<title>Tugas Form HTML</title>
 </head>
 <body>
     <caption><font color="#5d8794"><font size="6">Form Data Mahasiswa</font></font></br></caption>
@@ -79,7 +79,3 @@
 </form>
 </body>
 </html>    
-     
-      
-      
-    
