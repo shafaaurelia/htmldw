@@ -1,33 +1,55 @@
-
+<html>
+    <head>
+        Nama : Shafa Aurelia Putri
+    </br>
+        NPM : 4520210101 
+    </br>
+        Kelas : Desain Werb A
+    </br>
+    <body bgcolor="#e6dcc1"></body>
+    </head>
+    <body>
 <table>
-     <caption>My Table</caption>
-     <style>
-			table, tr, th, td {
-			border:2px solid black;
-			border-collapse:collapse;
-			width: 400px;
-			}
-		</style>
-     <thead>
-          <tr>
-               <th>No</th>
-               <th>Nama</th>
-               <th>NPM</th>
-               <th>Alamat</th>
-          </tr>
-     </thead>
-     <tbody>
-          <tr>
-               <td>1</td>
-               <td>Shafa</td>
-               <td>4520210101</td>
-               <td>Medan</td>
-          </tr>
-          <tr>
-               <td>2</td>
-               <td>Aurelia</td>
-               <td>12345678</td>
-               <td>Jakarta</td>
-          </tr>
-     </tbody>
+    <caption><font color="#695d3f"><font size="6">Tabel Data Mahasiswa</font></font></br></caption>
+    <style>
+        table, tr, th, td {
+        border:2px solid black;
+        border-collapse:collapse;
+        width: 600px;
+        }
+    </style>
+    <thead>
+         <tr>
+              <th>No</th>
+              <th>Nama</th>
+              <th>NPM</th>
+              <th>Alamat</th>
+              <th>IPK</th>
+         </tr>
+    </thead>
+    <tbody>
+         <tr>
+              <td>1</td>
+              <td>Shafa</td>
+              <td>4520210101</td>
+              <td>Medan</td>
+              <td>3,9</td>
+         </tr>
+         <tr>
+              <td>2</td>
+              <td>Aurelia</td>
+              <td>123456789</td>
+              <td>Jakarta</td>
+              <td>3,6</td>
+         </tr>
+         <tr>
+            <td>3</td>
+            <td>Putri</td>
+            <td>987654321</td>
+            <td>Bandung</td> 
+            <td>3,7</td>
+         </tr>
+    </tbody>
 </table>
+</body>
+</html>
