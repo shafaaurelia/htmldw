@@ -1,6 +1,13 @@
 
 <table>
      <caption>My Table</caption>
+     <style>
+			table, tr, th, td {
+			border:2px solid black;
+			border-collapse:collapse;
+			width: 400px;
+			}
+		</style>
      <thead>
           <tr>
                <th>No</th>
