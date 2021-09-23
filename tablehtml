@@ -10,7 +10,7 @@
     <title>Tugas Table HTML</title>
     </head>
     <body>
-<table>
+    <table>
     <caption><font color="#695d3f"><font size="6">Tabel Data Mahasiswa</font></font></br></caption>
     <style>
         table, tr, th, td {
